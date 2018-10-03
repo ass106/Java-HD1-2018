@@ -3,29 +3,30 @@ Java heimadæmi 1 2018
 
 # daemi3.java
 
-    *************************************************************
-    *                      Tölvunarfræði 1                      *
-    *                       Heimadæmi 1.3                       *
-    * Forrit þetta prentar út þennan fallega ramma fyrir neðan. *
-    *                                                           *
-    *         /  \  /  \  /  \  /  \  /  \  /  \  /  \          *
-    *         \  /  \  /  \  /  \  /  \  /  \  /  \  /          *
-    *         /  \                                /  \          *
-    *         \  /                                \  /          *
-    *         /  \         Tölvunarfræði 1        /  \          *
-    *         \  /           Haust 2018           \  /          *
-    *         /  \                                /  \          *
-    *         \  /                                \  /          *
-    *         /  \  /  \  /  \  /  \  /  \  /  \  /  \          *
-    *         \  /  \  /  \  /  \  /  \  /  \  /  \  /          *
-    *                                                           *
-    *************************************************************
+```
+*************************************************************
+*                      Tölvunarfræði 1                      *
+*                       Heimadæmi 1.3                       *
+* Forrit þetta prentar út þennan fallega ramma fyrir neðan. *
+*                                                           *
+*         /  \  /  \  /  \  /  \  /  \  /  \  /  \          *
+*         \  /  \  /  \  /  \  /  \  /  \  /  \  /          *
+*         /  \                                /  \          *
+*         \  /                                \  /          *
+*         /  \         Tölvunarfræði 1        /  \          *
+*         \  /           Haust 2018           \  /          *
+*         /  \                                /  \          *
+*         \  /                                \  /          *
+*         /  \  /  \  /  \  /  \  /  \  /  \  /  \          *
+*         \  /  \  /  \  /  \  /  \  /  \  /  \  /          *
+*                                                           *
+*************************************************************
+```
 
-
-#Huh.java
+# Huh.java
  
 Forrit þetta prentar út: "Áfram Ísland!".
  
-#segdir.java
+# segdir.java
  
 Þetta verkefni var að einfalda línur af kóða.
