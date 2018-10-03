@@ -21,10 +21,10 @@ Java heimadæmi 1 2018
     *                                                           *
     *************************************************************
  
- #Huh.java
+#Huh.java
  
- Forrit þetta prentar út: "Áfram Ísland!".
+Forrit þetta prentar út: "Áfram Ísland!".
  
- #segdir.java
+#segdir.java
  
- Þetta verkefni var að einfalda línur af kóða.
+Þetta verkefni var að einfalda línur af kóða.
